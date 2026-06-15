@@ -7,12 +7,6 @@ st.set_page_config(
     layout="wide"
 )
 
-st.set_page_config(
-    page_title="MiniStore",
-    page_icon="🛒",
-    layout="wide"
-)
-
 # ---------- CSS ----------
 
 st.markdown("""
