@@ -7,8 +7,6 @@ st.set_page_config(
     layout="wide"
 )
 
-st.write("API Key Exists:", "OPENAI_API_KEY" in st.secrets)
-
 st.set_page_config(
     page_title="MiniStore",
     page_icon="🛒",
